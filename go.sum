@@ -609,6 +609,8 @@ github.com/sagikazarmark/slog-shim v0.1.0 h1:diDBnUNK9N/354PgrxMywXnAwEr1QZcOr6g
 github.com/sagikazarmark/slog-shim v0.1.0/go.mod h1:SrcSrq8aKtyuqEI1uvTDTK1arOWRIczQRv+GVI1AkeQ=
 github.com/seruman/go-readwisereader v0.0.0-20241222113302-e674038e615c h1:zQqdHwqGqJAA9SqMx675iiFBAMvlg2Gw+RuI63ZOvwQ=
 github.com/seruman/go-readwisereader v0.0.0-20241222113302-e674038e615c/go.mod h1:LE03eGMpiA0/1jDwG2bk4wsaf/QW2yTo5MNWTjGB0uU=
+github.com/seruman/go-readwisereader v0.0.0-20250310210006-8a52533f8bf3 h1:G53/vDP1VuKlKUbL+e4ug25hG3JzZkf9npsdpAUB+Bw=
+github.com/seruman/go-readwisereader v0.0.0-20250310210006-8a52533f8bf3/go.mod h1:LE03eGMpiA0/1jDwG2bk4wsaf/QW2yTo5MNWTjGB0uU=
 github.com/sethvargo/go-retry v0.2.4 h1:T+jHEQy/zKJf5s95UkguisicE0zuF9y7+/vgz08Ocec=
 github.com/sethvargo/go-retry v0.2.4/go.mod h1:1afjQuvh7s4gflMObvjLPaWgluLLyhA1wmVZ6KLpICw=
 github.com/shiena/ansicolor v0.0.0-20230509054315-a9deabde6e02 h1:v9ezJDHA1XGxViAUSIoO/Id7Fl63u6d0YmsAm+/p2hs=

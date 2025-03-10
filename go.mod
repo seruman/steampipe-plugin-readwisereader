@@ -3,7 +3,7 @@ module github.com/seruman/steampipe-plugin-readwisereader
 go 1.23.3
 
 require (
-	github.com/seruman/go-readwisereader v0.0.0-20241222113302-e674038e615c
+	github.com/seruman/go-readwisereader v0.0.0-20250310210006-8a52533f8bf3
 	github.com/turbot/steampipe-plugin-sdk/v5 v5.11.0
 )
 
