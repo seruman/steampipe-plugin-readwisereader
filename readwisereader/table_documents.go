@@ -7,7 +7,7 @@ import (
 	"github.com/turbot/steampipe-plugin-sdk/v5/grpc/proto"
 	"github.com/turbot/steampipe-plugin-sdk/v5/plugin"
 
-	"github.com/seruman/go-readwisereader"
+	"code.selman.me/go-readwisereader"
 )
 
 func tableDocuments() *plugin.Table {

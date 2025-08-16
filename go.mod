@@ -1,9 +1,9 @@
-module github.com/seruman/steampipe-plugin-readwisereader
+module code.selman.me/steampipe-plugin-readwisereader
 
 go 1.23.3
 
 require (
-	github.com/seruman/go-readwisereader v0.0.0-20250310210006-8a52533f8bf3
+	code.selman.me/go-readwisereader v0.0.0-20250816173654-7f9c7f7ee755
 	github.com/turbot/steampipe-plugin-sdk/v5 v5.11.0
 )
 
